@@ -2,3 +2,15 @@ body {
   background-color: black;
   color: wheat;
 }
+
+.loadMore-button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  font-size: 24px;
+  border-radius: 4px;
+}
+
+.hidden {
+  display: none;
+}
