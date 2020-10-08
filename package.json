@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/redreren/october8"
   },
-  "homepage": "// тут вставить url GitHub Pages после команды npm run deploy",
+  "homepage": "https://redreren.github.io/october8/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
