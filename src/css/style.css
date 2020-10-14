@@ -1,14 +1,30 @@
 body {
-  background-color: black;
-  color: wheat;
+  align-items: center;
+
+  padding-top: 20px;
+  background-color: rgb(140, 140, 140);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input {
+  text-align: center;
+  border-radius: 10px;
+  height: 22px;
+}
+
+li {
+  list-style: none;
 }
 
 .loadMore-button {
-  display: block;
   margin: 0 auto;
-  padding: 10px 20px;
-  font-size: 24px;
-  border-radius: 4px;
+  background-color: aquamarine;
+  width: 154px;
+  height: 26px;
+  border-radius: 10px;
+  display: block;
 }
 
 .hidden {

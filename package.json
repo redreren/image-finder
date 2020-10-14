@@ -47,6 +47,9 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
-    "lodash.debounce": "^4.0.8"
+    "basiclightbox": "^5.0.3",
+    "lodash.debounce": "^4.0.8",
+    "material-design-icons": "^3.0.1",
+    "material-icons": "^0.3.1"
   }
 }
